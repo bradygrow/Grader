@@ -1,0 +1,45 @@
+C:\Users\Brady Grow\source\repos\Grader\Grader\bin\Debug\Grader.exe.config
+C:\Users\Brady Grow\source\repos\Grader\Grader\bin\Debug\Grader.exe
+C:\Users\Brady Grow\source\repos\Grader\Grader\bin\Debug\Grader.pdb
+C:\Users\Brady Grow\source\repos\Grader\Grader\obj\Debug\Grader.csprojAssemblyReference.cache
+C:\Users\Brady Grow\source\repos\Grader\Grader\obj\Debug\Grader.frmLogin.resources
+C:\Users\Brady Grow\source\repos\Grader\Grader\obj\Debug\Grader.Properties.Resources.resources
+C:\Users\Brady Grow\source\repos\Grader\Grader\obj\Debug\Grader.csproj.GenerateResource.cache
+C:\Users\Brady Grow\source\repos\Grader\Grader\obj\Debug\Grader.exe
+C:\Users\Brady Grow\source\repos\Grader\Grader\obj\Debug\Grader.pdb
+C:\Users\Brady Grow\source\repos\Grader\Grader\obj\Debug\Grader.frmMainApp.resources
+C:\Users\Brady Grow\source\repos\Grader\Grader\obj\Debug\Grader.frmStudent.resources
+C:\Users\Brady Grow\source\repos\Grader\Grader\obj\Debug\Grader.frmSearchDataView.resources
+C:\Users\Brady Grow\source\repos\Grader\Grader\obj\Debug\Grader.frmClassPerformance.resources
+C:\Users\Brady Grow\source\repos\Grader\Grader\obj\Debug\Grader.frmTaskBreakdown.resources
+C:\Users\baseb\source\repos\Grader\Grader\Grader\bin\Debug\Grader.exe.config
+C:\Users\baseb\source\repos\Grader\Grader\Grader\bin\Debug\Grader.exe
+C:\Users\baseb\source\repos\Grader\Grader\Grader\bin\Debug\Grader.pdb
+C:\Users\baseb\source\repos\Grader\Grader\Grader\obj\Debug\Grader.csprojAssemblyReference.cache
+C:\Users\baseb\source\repos\Grader\Grader\Grader\obj\Debug\Grader.frmClassPerformance.resources
+C:\Users\baseb\source\repos\Grader\Grader\Grader\obj\Debug\Grader.frmLogin.resources
+C:\Users\baseb\source\repos\Grader\Grader\Grader\obj\Debug\Grader.frmMainApp.resources
+C:\Users\baseb\source\repos\Grader\Grader\Grader\obj\Debug\Grader.Properties.Resources.resources
+C:\Users\baseb\source\repos\Grader\Grader\Grader\obj\Debug\Grader.frmSearchDataView.resources
+C:\Users\baseb\source\repos\Grader\Grader\Grader\obj\Debug\Grader.frmStudent.resources
+C:\Users\baseb\source\repos\Grader\Grader\Grader\obj\Debug\Grader.frmTaskBreakdown.resources
+C:\Users\baseb\source\repos\Grader\Grader\Grader\obj\Debug\Grader.csproj.GenerateResource.cache
+C:\Users\baseb\source\repos\Grader\Grader\Grader\obj\Debug\Grader.exe
+C:\Users\baseb\source\repos\Grader\Grader\Grader\obj\Debug\Grader.pdb
+C:\Users\Brady Grow\source\repos\Grader\Grader\Grader\bin\Debug\Grader.exe.config
+C:\Users\Brady Grow\source\repos\Grader\Grader\Grader\bin\Debug\Grader.exe
+C:\Users\Brady Grow\source\repos\Grader\Grader\Grader\bin\Debug\Grader.pdb
+C:\Users\Brady Grow\source\repos\Grader\Grader\Grader\obj\Debug\Grader.csprojAssemblyReference.cache
+C:\Users\Brady Grow\source\repos\Grader\Grader\Grader\obj\Debug\Grader.frmClassPerformance.resources
+C:\Users\Brady Grow\source\repos\Grader\Grader\Grader\obj\Debug\Grader.frmLogin.resources
+C:\Users\Brady Grow\source\repos\Grader\Grader\Grader\obj\Debug\Grader.frmMainApp.resources
+C:\Users\Brady Grow\source\repos\Grader\Grader\Grader\obj\Debug\Grader.Properties.Resources.resources
+C:\Users\Brady Grow\source\repos\Grader\Grader\Grader\obj\Debug\Grader.frmSearchDataView.resources
+C:\Users\Brady Grow\source\repos\Grader\Grader\Grader\obj\Debug\Grader.frmStudent.resources
+C:\Users\Brady Grow\source\repos\Grader\Grader\Grader\obj\Debug\Grader.frmTaskBreakdown.resources
+C:\Users\Brady Grow\source\repos\Grader\Grader\Grader\obj\Debug\Grader.csproj.GenerateResource.cache
+C:\Users\Brady Grow\source\repos\Grader\Grader\Grader\obj\Debug\Grader.exe
+C:\Users\Brady Grow\source\repos\Grader\Grader\Grader\obj\Debug\Grader.pdb
+C:\Users\Brady Grow\source\repos\Grader\Grader\Grader\obj\Debug\Grader.frmClassShowing.resources
+C:\Users\Brady Grow\source\repos\Grader\Grader\Grader\obj\Debug\Grader.frmEditStudent.resources
+C:\Users\Brady Grow\source\repos\Grader\Grader\Grader\obj\Debug\Grader.frmChangePass.resources
